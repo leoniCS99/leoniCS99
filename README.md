@@ -57,10 +57,10 @@ const githubAbout = {
 
   <div align="center" style={ display: "flex"}>
   <p align="left"  >
-    <a href="https://github.com/leoniCS99"><img align="left" src="https://github-readme-stats.vercel.app/api?username=danilloubr&show_icons=true&locale=en&theme=algolia" alt="leoniBR" height="192px" width="390px" padding="0px"/></a>
+    <a href="https://github.com/leoniCS99"><img align="left" src="https://github-readme-stats.vercel.app/api?username=leoniCS99&show_icons=true&locale=en&theme=algolia" alt="leoniBR" height="192px" width="390px" padding="0px"/></a>
 	</p>
 	<p  align="right" >
-	  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=danilloubr&show_icons=true&locale=en&layout=compact&theme=algolia" alt="leoniCS99" height="192px" width="390px" padding="0px" />
+	  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=leoniCS99&show_icons=true&locale=en&layout=compact&theme=algolia" alt="leoniCS99" height="192px" width="390px" padding="0px" />
 	</p>
   <br/>
   
@@ -71,7 +71,7 @@ const githubAbout = {
 
 
   <br/>
-   <a href="https://github.com/leoniCS99"><img alt="Danilloubr's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=danilloubr&custom_title=danillouBR's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/leoniCS99"><img alt="Leoni Cesar" src="https://activity-graph.herokuapp.com/graph?username=leoniCS99&custom_title=leoniCS99's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
   
    <a href="https://github.com/leoniCS99">
