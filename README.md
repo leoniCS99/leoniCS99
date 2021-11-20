@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="#"><img src="https://media1.giphy.com/media/vxWq52dFPthnKjRbLY/giphy.gif?cid=790b7611263fbc89b577e5fb6d7894dc2dedb12872513b0b&rid=giphy.gif&ct=g" width="48"></a>
+  <a href="#"><img src="https://media4.giphy.com/media/UvPvsX9oMlMWs/giphy.gif?cid=790b761186e68208deb5b2669cadfae39ab9adca14dd9d5c&rid=giphy.gif&ct=s" width="48"></a>
 </h1>
 
 <p align="center">   
