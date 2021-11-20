@@ -14,26 +14,25 @@
 
 ### Sobre.
 
-```javascript
-const githubAbout = {
-  profile: {
-    name: "Leoni Cesar",
-    title: "Júnior Java | Software Engineer",
-    location: "Maringá, PR",
-  },
-  hardSkills: {
-    languages: ["Java", "JavaScript", "Html", "CSS", "Android"],
-    frameworks: ["SpringBoot", "React"],
-    softwares: ["IntelliJ", "Figma", "Android Studio, "Visual Studio Code"],
-  },
-  softSkills: [
-    "Boa comunicação",
-    "Trabalho em grupo",
-    "Sempre disposto a aprender",
-    "Pro-ativo",
-  ]
-  
-};
+```java
+public class Main {
+    public static void main(String[] args) {
+        Profile Pro = new Profile();
+        HardSkills Hard = new HardSkills();
+        SoftSkills Soft = new SoftSkills();
+
+        Pro.SetName("Leoni Cesar");
+        Pro.SetTitle("Júnior Java | Software Engineer");
+        Pro.SetLocation("Maringá, PR");
+
+        Hard.SetLanguagens("Java ,JavaScript, Html, CSS, Android");
+        Hard.SetFrameworks("SpringBoot, React");
+        Hard.SetSoftwares("IntelliJ, Figma, Android Studio, Visual Studio Code");
+
+        Soft.SetSkill("Boa comunicação, Trabalho em grupo , Sempre disposto a aprender ,Pro-ativo");
+    }
+}
+
 ```
 
 
