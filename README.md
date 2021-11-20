@@ -25,11 +25,11 @@ public class Main {
         Pro.SetTitle("Júnior Java | Software Engineer");
         Pro.SetLocation("Maringá, PR");
 
-        Hard.SetLanguagens("Java ,JavaScript, Html, CSS, Android");
-        Hard.SetFrameworks("SpringBoot, React");
-        Hard.SetSoftwares("IntelliJ, Figma, Android Studio, Visual Studio Code");
+        Hard.SetLanguagens("Java | JavaScript | Html| CSS | Android");
+        Hard.SetFrameworks("SpringBoot | React");
+        Hard.SetSoftwares("IntelliJ | Figma | Android Studio | Visual Studio Code");
 
-        Soft.SetSkill("Boa comunicação, Trabalho em grupo , Sempre disposto a aprender ,Pro-ativo");
+        Soft.SetSkill("Boa comunicação | Trabalho em grupo | Sempre disposto a aprender | Pro-ativo");
     }
 }
 
