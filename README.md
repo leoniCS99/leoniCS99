@@ -1,5 +1,4 @@
 <h1 align="center">
-  Hello, friend!
   <a href="#"><img src="https://media1.giphy.com/media/vxWq52dFPthnKjRbLY/giphy.gif?cid=790b7611263fbc89b577e5fb6d7894dc2dedb12872513b0b&rid=giphy.gif&ct=g" width="48"></a>
 </h1>
 
