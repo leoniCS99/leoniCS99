@@ -12,7 +12,7 @@
 
 
 
-### sobre.
+### Sobre.
 
 ```javascript
 const githubAbout = {
