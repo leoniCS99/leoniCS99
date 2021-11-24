@@ -67,12 +67,7 @@ public class Main {
   </div>
   </p>
 
-
-
-
-  <br/>
-   <a href="https://github.com/leoniCS99"><img alt="Leoni Cesar" src="https://activity-graph.herokuapp.com/graph?username=leoniCS99&custom_title=leoniCS99's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+  
   
    <a href="https://github.com/leoniCS99">
     <img src="https://komarev.com/ghpvc/?username=leoniCS99" alt="page views" />
