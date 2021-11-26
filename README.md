@@ -60,7 +60,7 @@ public class Main {
     <a href="https://github.com/danilloubr"><img align="left" src="https://github-readme-stats.vercel.app/api?username=leoniCS99&show_icons=true&locale=en&theme=algolia" alt="leoniCS99" height="192px" width="415px" padding="0px"/></a>
 	</p>
 	<p  align="right" >
-	  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=leoniCS99&show_icons=true&locale=en&layout=compact&theme=algolia" alt="leoniCS99" height="192px" width="390px" padding="0px" />
+	  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=leoniCS99&show_icons=true&locale=en&layout=compact&theme=algolia" alt="leoniCS99" height="192px" width="370px" padding="0px" />
 	</p>
   <br/>
   
