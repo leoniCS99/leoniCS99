@@ -22,12 +22,12 @@ public class Main {
         SoftSkills Soft = new SoftSkills();
 
         Pro.SetName("Leoni Cesar");
-        Pro.SetTitle("Júnior Java | Software Engineer");
+        Pro.SetTitle("Java | Software Engineer");
         Pro.SetLocation("Maringá, PR");
 
         Hard.SetLanguagens("Java | JavaScript ");
         Hard.SetFrameworks("SpringBoot | Angular | React ");
-        Hard.SetSoftwares("IntelliJ | Visual Studio Code| Android Studio | Figma ");
+        Hard.SetSoftwares("IntelliJ | Visual Studio Code ");
 
         Soft.SetSkill("Boa comunicação | Trabalho em grupo | Sempre disposto a aprender | Pro-ativo");
     }
