@@ -7,7 +7,6 @@
   <a href="mailto:leonicezar99@gmai.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=0000CD"></a>
   <a href="https://www.linkedin.com/in/leoni-cesar-3b3a531ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0000CD"></a> 
   <a href=" ** " target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=0000CD"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=0000CD"></a>
 </p>
 
 
