@@ -18,14 +18,13 @@ public class Main {
         SoftSkills Soft = new SoftSkills();
 
         Pro.SetName("Leoni Cesar");
-        Pro.SetTitle("Java | Software Engineer");
+        profile.setTitle("Backend Software Engineer | Java");
         Pro.SetLocation("Maringá, PR");
 
-        Hard.SetLanguagens("Java | Node ");
-        Hard.SetFrameworks("SpringBoot | Angular ");
-        Hard.SetSoftwares("IntelliJ | Visual Studio Code ");
+        Hard.SetLanguagens("Java");
+        Hard.SetFrameworks("SpringBoot");
 
-        Soft.SetSkill("Boa comunicação | Trabalho em grupo | Sempre disposto a aprender | Pro-ativo");
+        Soft.SetSkill("Comunicação clara | Trabalho colaborativo | Mentoria técnica");
     }
 }
 
