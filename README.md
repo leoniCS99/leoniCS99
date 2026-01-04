@@ -31,7 +31,7 @@ public class Main {
 ```
 
 
-### em destaque.
+### Linguagens e Tecnologias.
 <a target="_blank" rel="noopener noreferrer" href="https://www.w3schools.com/js/"><img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.w3schools.com/js/"><img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.w3schools.com/js/"><img align="left" alt="GitHub" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/javascript-2752148-2284965.png" style="max-width: 100%;"></a>
@@ -44,7 +44,7 @@ public class Main {
 
 
 <br></p>
-
+<!--
 ###  github estatísticas.
 
   <div align="center" style={ display: "flex"}>
@@ -59,7 +59,7 @@ public class Main {
   </div>
   </p>
 
-
+<--
 
 
 
